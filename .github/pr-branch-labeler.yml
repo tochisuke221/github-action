@@ -1,0 +1,3 @@
+# Apply label "bug" if head matches "fix/*"
+bug:
+  head: "fix/*"
